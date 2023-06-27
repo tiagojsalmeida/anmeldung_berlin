@@ -9,6 +9,8 @@
   "author": "solidneo",
   "license": "MIT",
   "dependencies": {
+    "growl": "^1.10.5",
+    "open": "^9.1.0",
     "puppeteer": "^15.0.0"
   }
 }

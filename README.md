@@ -4,7 +4,7 @@ Feel free to contribute and further improve it
 
 # Installing
 1. Move to the target folder `cd /YOURFOLDER`
-2. `git clone https://github.com/solidneo/anmeldung_berlin.git`
+2. `git clone https://github.com/tiagojsalmeida/anmeldung_berlin.git`
 3. `cd anmeldung_berlin`
 4. `npm install`
 
